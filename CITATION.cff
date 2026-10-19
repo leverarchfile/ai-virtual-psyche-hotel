@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+type: software
+title: "AI Virtual Psyche Hotel"
+version: "0.1"
+date-released: "2025-08-12"
+authors:
+  - family-names: Baldwin-Ramult
+    given-names: Leo
+    orcid: "https://orcid.org/0009-0003-5122-0871"
+    affiliation: "University of Auckland"
+repository-code: "https://github.com/leverarchfile/ai-virtual-psyche-hotel"
+license: Apache-2.0
+abstract: >-
+  A speculative web environment in which users check in to an online hotel by
+  connecting data streams from their own rooms at home. An AI agent attempts to
+  reconstruct the psychic interiority of each room's inhabitant as text that
+  other guests encounter as they move through the hotel. Prototype developed
+  as part of the AI Subjectivity project.
+keywords:
+  - creative AI
+  - speculative design
+  - net art
+  - psychoanalysis
+  - large language models
